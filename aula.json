@@ -1,12 +1,13 @@
 {
-  "I need my coffee.": "cards-aula/001_i_need_my_coffee.mp3",
-  "I need you here.": "cards-aula/002_i_need_you_here.mp3",
-  "I need your help.": "cards-aula/003_i_need_your_help.mp3",
-  "I need his help.": "cards-aula/004_i_need_his_help.mp3",
-  "I need her help.": "cards-aula/005_i_need_her_help.mp3",
-  "They need us now.": "cards-aula/006_they_need_us_now.mp3",
-  "Get outta here!": "cards-aula/007_get_outta_here.mp3",
-  "Get me outta here!": "cards-aula/008_get_me_outta_here.mp3",
-  "Get him outta here.": "cards-aula/009_get_him_outta_here.mp3",
-  "Get her outta here": "cards-aula/010_get_her_outta_here.mp3"
+  "You're welcome.": "cards-aula/001_youre_welcome.mp3",
+  "I'm fine.": "cards-aula/002_im_fine.mp3",
+  "He's fine.": "cards-aula/003_hes_fine.mp3",
+  "She's fine.": "cards-aula/004_shes_fine.mp3",
+  "We're fine.": "cards-aula/005_were_fine.mp3",
+  "They're fine.": "cards-aula/006_theyre_fine.mp3",
+  "I'm late.": "cards-aula/007_im_late.mp3",
+  "I'm tired.": "cards-aula/008_im_tired.mp3",
+  "I'm busy.": "cards-aula/009_im_busy.mp3",
+  "I'm on my way.": "cards-aula/010_im_on_my_way.mp3",
+  "I'm at work.": "cards-aula/011_im_at_work.mp3"
 }
