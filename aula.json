@@ -1,13 +1,12 @@
 {
-  "You're welcome.": "cards-aula/001_youre_welcome.mp3",
-  "I'm fine.": "cards-aula/002_im_fine.mp3",
-  "He's fine.": "cards-aula/003_hes_fine.mp3",
-  "She's fine.": "cards-aula/004_shes_fine.mp3",
-  "We're fine.": "cards-aula/005_were_fine.mp3",
-  "They're fine.": "cards-aula/006_theyre_fine.mp3",
-  "I'm late.": "cards-aula/007_im_late.mp3",
-  "I'm tired.": "cards-aula/008_im_tired.mp3",
-  "I'm busy.": "cards-aula/009_im_busy.mp3",
-  "I'm on my way.": "cards-aula/010_im_on_my_way.mp3",
-  "I'm at work.": "cards-aula/011_im_at_work.mp3"
+  "I don't know": "cards-aula/001_i_dont_know.mp3",
+  "I dunno": "cards-aula/002_i_dunno.mp3",
+  "You don’t have a choice.": "cards-aula/003_you_dont_have_a_choice.mp3",
+  "He doesn’t have a choice.": "cards-aula/004_he_doesnt_have_a_choice.mp3",
+  "I don't care": "cards-aula/005_i_dont_care.mp3",
+  "I don't think so": "cards-aula/006_i_dont_think_so.mp3",
+  "I don't get it": "cards-aula/007_i_dont_get_it.mp3",
+  "Don't worry about it": "cards-aula/008_dont_worry_about_it.mp3",
+  "Don't do that": "cards-aula/009_dont_do_that.mp3",
+  "Don't tell me": "cards-aula/010_dont_tell_me.mp3"
 }
