@@ -1,12 +1,11 @@
 {
-  "I don't know": "cards-aula/001_i_dont_know.mp3",
-  "I dunno": "cards-aula/002_i_dunno.mp3",
-  "You don’t have a choice.": "cards-aula/003_you_dont_have_a_choice.mp3",
-  "He doesn’t have a choice.": "cards-aula/004_he_doesnt_have_a_choice.mp3",
-  "I don't care": "cards-aula/005_i_dont_care.mp3",
-  "I don't think so": "cards-aula/006_i_dont_think_so.mp3",
-  "I don't get it": "cards-aula/007_i_dont_get_it.mp3",
-  "Don't worry about it": "cards-aula/008_dont_worry_about_it.mp3",
-  "Don't do that": "cards-aula/009_dont_do_that.mp3",
-  "Don't tell me": "cards-aula/010_dont_tell_me.mp3"
+  "Call me if you need me.": "cards-aula/001_call_me_if_you_need_me.mp3",
+  "They leave if it rains.": "cards-aula/002_they_leave_if_it_rains.mp3",
+  "Looks like rain.": "cards-aula/003_looks_like_rain.mp3",
+  "They're like, \"Let's go.\"": "cards-aula/004_theyre_like_lets_go.mp3",
+  "He's like my brother.": "cards-aula/005_hes_like_my_brother.mp3",
+  "I wanna go, but she stays": "cards-aula/006_i_wanna_go_but_she_stays.mp3",
+  "I try, but it fails.": "cards-aula/007_i_try_but_it_fails.mp3",
+  "He wins because he trains": "cards-aula/008_he_wins_because_he_trains.mp3",
+  "I eat ’cause I’m hungry": "cards-aula/009_i_eat_cause_im_hungry.mp3"
 }
