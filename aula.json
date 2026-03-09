@@ -1,11 +1,16 @@
 {
-  "Call me if you need me.": "cards-aula/001_call_me_if_you_need_me.mp3",
-  "They leave if it rains.": "cards-aula/002_they_leave_if_it_rains.mp3",
-  "Looks like rain.": "cards-aula/003_looks_like_rain.mp3",
-  "They're like, \"Let's go.\"": "cards-aula/004_theyre_like_lets_go.mp3",
-  "He's like my brother.": "cards-aula/005_hes_like_my_brother.mp3",
-  "I wanna go, but she stays": "cards-aula/006_i_wanna_go_but_she_stays.mp3",
-  "I try, but it fails.": "cards-aula/007_i_try_but_it_fails.mp3",
-  "He wins because he trains": "cards-aula/008_he_wins_because_he_trains.mp3",
-  "I eat ’cause I’m hungry": "cards-aula/009_i_eat_cause_im_hungry.mp3"
+  "I'm not going anywhere": "cards-aula/001_im_not_going_anywhere.mp3",
+  "No, I'm not": "cards-aula/002_no_im_not.mp3",
+  "You're not going anywhere": "cards-aula/003_youre_not_going_anywhere.mp3",
+  "No, you're not": "cards-aula/004_no_youre_not.mp3",
+  "He's not there": "cards-aula/005_hes_not_there.mp3",
+  "No, he's not": "cards-aula/006_no_hes_not.mp3",
+  "She's not here": "cards-aula/007_shes_not_here.mp3",
+  "No, she's not": "cards-aula/008_no_shes_not.mp3",
+  "It's not your fault": "cards-aula/009_its_not_your_fault.mp3",
+  "No, it's not": "cards-aula/010_no_its_not.mp3",
+  "We're not going anywhere": "cards-aula/011_were_not_going_anywhere.mp3",
+  "No, we're not": "cards-aula/012_no_were_not.mp3",
+  "They're not here": "cards-aula/013_theyre_not_here.mp3",
+  "No, they're not": "cards-aula/014_no_theyre_not.mp3"
 }
