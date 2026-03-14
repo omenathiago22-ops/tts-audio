@@ -1,10 +1,12 @@
 {
-  "This is crazy": "cards-aula/001_this_is_crazy.mp3",
-  "This is mine": "cards-aula/002_this_is_mine.mp3",
-  "This is perfect": "cards-aula/003_this_is_perfect.mp3",
-  "That’s not fair": "cards-aula/004_thats_not_fair.mp3",
-  "That’s the idea": "cards-aula/005_thats_the_idea.mp3",
-  "That’s crazy, man": "cards-aula/006_thats_crazy_man.mp3",
-  "These are mine": "cards-aula/007_these_are_mine.mp3",
-  "I don’t want those": "cards-aula/008_i_dont_want_those.mp3"
+  "Do you think?": "cards-aula/001_do_you_think.mp3",
+  "What do you think?": "cards-aula/002_what_do_you_think.mp3",
+  "Why do you think?": "cards-aula/003_why_do_you_think.mp3",
+  "Who do you think?": "cards-aula/004_who_do_you_think.mp3",
+  "Where do you think?": "cards-aula/005_where_do_you_think.mp3",
+  "Where do you think you're going?": "cards-aula/006_where_do_you_think_youre_going.mp3",
+  "What do you think of that?": "cards-aula/007_what_do_you_think_of_that.mp3",
+  "Do you think so?": "cards-aula/008_do_you_think_so.mp3",
+  "What do you think about that?": "cards-aula/009_what_do_you_think_about_that.mp3",
+  "What do you think you're doing?": "cards-aula/010_what_do_you_think_youre_doing.mp3"
 }
