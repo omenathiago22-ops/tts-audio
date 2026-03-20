@@ -1,14 +1,10 @@
 {
-  "Are you ready?": "cards-aula/001_are_you_ready.mp3",
-  "Why are you ready?": "cards-aula/002_why_are_you_ready.mp3",
-  "Is he here?": "cards-aula/003_is_he_here.mp3",
-  "Where's he?": "cards-aula/004_wheres_he.mp3",
-  "Are they coming?": "cards-aula/005_are_they_coming.mp3",
-  "When are they coming?": "cards-aula/006_when_are_they_coming.mp3",
-  "Am I late?": "cards-aula/007_am_i_late.mp3",
-  "Why am I late?": "cards-aula/008_why_am_i_late.mp3",
-  "Is he your boss?": "cards-aula/009_is_he_your_boss.mp3",
-  "Who is your boss?": "cards-aula/010_who_is_your_boss.mp3",
-  "Are ya happy?": "cards-aula/011_are_ya_happy.mp3",
-  "How're ya happy?)": "cards-aula/012_howre_ya_happy.mp3"
+  "Sure — no problem.": "cards-aula/001_sure_no_problem.mp3",
+  "Sure? Are you sure?": "cards-aula/002_sure_are_you_sure.mp3",
+  "I guess maybe": "cards-aula/003_i_guess_maybe.mp3",
+  "I guess not": "cards-aula/004_i_guess_not.mp3",
+  "It’s good, right?": "cards-aula/005_its_good_right.mp3",
+  "Right? You coming?": "cards-aula/006_right_you_coming.mp3",
+  "Whatever, I don’t care.": "cards-aula/007_whatever_i_dont_care.mp3",
+  "Whatever, do what you want.": "cards-aula/008_whatever_do_what_you_want.mp3"
 }
