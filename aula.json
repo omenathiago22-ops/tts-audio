@@ -1,10 +1,14 @@
 {
-  "Well, I mean…": "cards-aula/001_well_i_mean.mp3",
-  "So, anyway.": "cards-aula/002_so_anyway.mp3",
-  "Well, of course.": "cards-aula/003_well_of_course.mp3",
-  "Well, right.": "cards-aula/004_well_right.mp3",
-  "Well, I guess you’re right.": "cards-aula/005_well_i_guess_youre_right.mp3",
-  "So, what’s the plan?": "cards-aula/006_so_whats_the_plan.mp3",
-  "So, what do you think?": "cards-aula/007_so_what_do_you_think.mp3",
-  "So, what now?": "cards-aula/008_so_what_now.mp3"
+  "What about you?": "cards-aula/001_what_about_you.mp3",
+  "Just a minute.": "cards-aula/002_just_a_minute.mp3",
+  "Not yet.": "cards-aula/003_not_yet.mp3",
+  "That's fine.": "cards-aula/004_thats_fine.mp3",
+  "You know, right?": "cards-aula/005_you_know_right.mp3",
+  "Really?": "cards-aula/006_really.mp3",
+  "Maybe later.": "cards-aula/007_maybe_later.mp3",
+  "Let's say you're right.": "cards-aula/008_lets_say_youre_right.mp3",
+  "I mean, come on.": "cards-aula/009_i_mean_come_on.mp3",
+  "Really, though?": "cards-aula/010_really_though.mp3",
+  "Alright, moving on.": "cards-aula/011_alright_moving_on.mp3",
+  "No matter what happens": "cards-aula/012_no_matter_what_happens.mp3"
 }
