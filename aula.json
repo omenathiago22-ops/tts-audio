@@ -1,14 +1,12 @@
 {
-  "What about you?": "cards-aula/001_what_about_you.mp3",
-  "Just a minute.": "cards-aula/002_just_a_minute.mp3",
-  "Not yet.": "cards-aula/003_not_yet.mp3",
-  "That's fine.": "cards-aula/004_thats_fine.mp3",
-  "You know, right?": "cards-aula/005_you_know_right.mp3",
-  "Really?": "cards-aula/006_really.mp3",
-  "Maybe later.": "cards-aula/007_maybe_later.mp3",
-  "Let's say you're right.": "cards-aula/008_lets_say_youre_right.mp3",
-  "I mean, come on.": "cards-aula/009_i_mean_come_on.mp3",
-  "Really, though?": "cards-aula/010_really_though.mp3",
-  "Alright, moving on.": "cards-aula/011_alright_moving_on.mp3",
-  "No matter what happens": "cards-aula/012_no_matter_what_happens.mp3"
+  "I wanted to see you.": "cards-aula/001_i_wanted_to_see_you.mp3",
+  "I wanted to talk to you.": "cards-aula/002_i_wanted_to_talk_to_you.mp3",
+  "I wanted to tell you.": "cards-aula/003_i_wanted_to_tell_you.mp3",
+  "I know I did.": "cards-aula/004_i_know_i_did.mp3",
+  "I know you did.": "cards-aula/005_i_know_you_did.mp3",
+  "Of course I did.": "cards-aula/006_of_course_i_did.mp3",
+  "Of course he did.": "cards-aula/007_of_course_he_did.mp3",
+  "I told you so.": "cards-aula/008_i_told_you_so.mp3",
+  "I told you that.": "cards-aula/009_i_told_you_that.mp3",
+  "I told you.": "cards-aula/010_i_told_you.mp3"
 }
