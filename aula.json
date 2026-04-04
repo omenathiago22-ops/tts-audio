@@ -1,10 +1,16 @@
 {
-  "I didn’t know.": "cards-aula/001_i_didnt_know.mp3",
-  "I didn’t realize.": "cards-aula/002_i_didnt_realize.mp3",
-  "I didn’t mean to.": "cards-aula/003_i_didnt_mean_to.mp3",
-  "I didn’t notice.": "cards-aula/004_i_didnt_notice.mp3",
-  "I didn’t get it.": "cards-aula/005_i_didnt_get_it.mp3",
-  "I didn’t catch that.": "cards-aula/006_i_didnt_catch_that.mp3",
-  "I didn’t have time.": "cards-aula/007_i_didnt_have_time.mp3",
-  "I didn’t want to.": "cards-aula/008_i_didnt_want_to.mp3"
+  "Did I call you?": "cards-aula/001_did_i_call_you.mp3",
+  "Didn't I call you?": "cards-aula/002_didnt_i_call_you.mp3",
+  "Did you call me?": "cards-aula/003_did_you_call_me.mp3",
+  "Didn't you call me?": "cards-aula/004_didnt_you_call_me.mp3",
+  "Did he call you?": "cards-aula/005_did_he_call_you.mp3",
+  "Didn't he call you?": "cards-aula/006_didnt_he_call_you.mp3",
+  "Did she call you?": "cards-aula/007_did_she_call_you.mp3",
+  "Didn't she call you?": "cards-aula/008_didnt_she_call_you.mp3",
+  "Did it call back?": "cards-aula/009_did_it_call_back.mp3",
+  "Didn't it call back?": "cards-aula/010_didnt_it_call_back.mp3",
+  "Did we call him?": "cards-aula/011_did_we_call_him.mp3",
+  "Didn't we call him?": "cards-aula/012_didnt_we_call_him.mp3",
+  "Did they call back?": "cards-aula/013_did_they_call_back.mp3",
+  "Didn't they call back?": "cards-aula/014_didnt_they_call_back.mp3"
 }
