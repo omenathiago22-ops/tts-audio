@@ -1,16 +1,12 @@
 {
-  "Did I call you?": "cards-aula/001_did_i_call_you.mp3",
-  "Didn't I call you?": "cards-aula/002_didnt_i_call_you.mp3",
-  "Did you call me?": "cards-aula/003_did_you_call_me.mp3",
-  "Didn't you call me?": "cards-aula/004_didnt_you_call_me.mp3",
-  "Did he call you?": "cards-aula/005_did_he_call_you.mp3",
-  "Didn't he call you?": "cards-aula/006_didnt_he_call_you.mp3",
-  "Did she call you?": "cards-aula/007_did_she_call_you.mp3",
-  "Didn't she call you?": "cards-aula/008_didnt_she_call_you.mp3",
-  "Did it call back?": "cards-aula/009_did_it_call_back.mp3",
-  "Didn't it call back?": "cards-aula/010_didnt_it_call_back.mp3",
-  "Did we call him?": "cards-aula/011_did_we_call_him.mp3",
-  "Didn't we call him?": "cards-aula/012_didnt_we_call_him.mp3",
-  "Did they call back?": "cards-aula/013_did_they_call_back.mp3",
-  "Didn't they call back?": "cards-aula/014_didnt_they_call_back.mp3"
+  "I was kidding.": "cards-aula/001_i_was_kidding.mp3",
+  "I was joking.": "cards-aula/002_i_was_joking.mp3",
+  "I was wrong": "cards-aula/003_i_was_wrong.mp3",
+  "It wasn’t my fault.": "cards-aula/004_it_wasnt_my_fault.mp3",
+  "I wasn’t sure.": "cards-aula/005_i_wasnt_sure.mp3",
+  "You were right.": "cards-aula/006_you_were_right.mp3",
+  "You were wrong.": "cards-aula/007_you_were_wrong.mp3",
+  "It wasn’t serious.": "cards-aula/008_it_wasnt_serious.mp3",
+  "We weren’t allowed.": "cards-aula/009_we_werent_allowed.mp3",
+  "They weren’t there.": "cards-aula/010_they_werent_there.mp3"
 }
